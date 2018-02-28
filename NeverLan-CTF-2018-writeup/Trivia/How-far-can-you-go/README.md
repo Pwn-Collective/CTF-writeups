@@ -17,7 +17,7 @@ We have it in description: `neverlanCTF`
 
 **Second pass:**
 
-If we put piece of text to google [The Conscience of a Hacker](https://www.google.pl/search?q=The+Conscience+of+a+Hacker) we get a link to website with text from zip but.. with autor.
+If we put piece of text to google e.g. [The Conscience of a Hacker](https://www.google.pl/search?q=The+Conscience+of+a+Hacker) we get a link to website with text from zip but.. with autor.
 
 So pass is: `+++The Mentor+++`.
 
