@@ -1,8 +1,10 @@
 # NeverLan-CTF-2018-writeup
 This repository serves as a writeups for NeverLan CTF 2018
 
-* **Cryptography**
-	- [Story Time!](Cryptography/Story-Time)
+* **Cryptography**	
+    - [Always in a rush to find it...](Cryptography/Always-in-a-rush-to-find-it)
+    - [Story Time!](Cryptography/Story-Time)
+    - [Picture Words](Cryptography/pitcure-words)
 * **Recon**
 * **Scripting**
 * **Reversing**
