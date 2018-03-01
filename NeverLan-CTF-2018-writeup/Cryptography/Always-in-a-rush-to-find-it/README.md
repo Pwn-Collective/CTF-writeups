@@ -9,7 +9,7 @@
 
 ## Write-up
 
-We see that this ciphertext has a very low coincidence score. This is how you can guess that this cipher uses multiple alphabets or that it is keyed.
+We see that this ciphertext has a very low coincidence score. So you can guess that this cipher uses multiple alphabets or it's keyed.
 
 Another characteristics of the given text is that it contains only letters.
 
