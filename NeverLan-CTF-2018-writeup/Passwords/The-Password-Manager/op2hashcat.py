@@ -30,9 +30,7 @@ if __name__ == "__main__":
 	
 	#import json
 	with open('neverlan.opvault/default/profile.js') as f:
-		# s=f.read()[12:-1]
 		profile = json.loads(f.read()[12:-1])
-
 
 	#get data for hashcat input
 	out = list()
@@ -48,7 +46,7 @@ if __name__ == "__main__":
 	#create output
 	out_str = ':'.join(out)
 
-	with open('out.txt','w+') as f:
+	with open('in.txt','w+') as f:
 		f.write(out_str)
 
 	print out_str
