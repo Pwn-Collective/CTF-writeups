@@ -2,6 +2,7 @@
 This repository serves as a writeups for NeverLan CTF 2018
 
 * **Cryptography**
+ - [Story Time!](Cryptography/Story Time)
 * **Recon**
 * **Scripting**
 * **Reversing**
