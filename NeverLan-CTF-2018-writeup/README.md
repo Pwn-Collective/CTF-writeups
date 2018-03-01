@@ -4,7 +4,7 @@ This repository serves as a writeups for NeverLan CTF 2018
 * **Cryptography**	
     - [Always in a rush to find it...](Cryptography/Always-in-a-rush-to-find-it)
     - [Story Time!](Cryptography/Story-Time)
-    - [Picture Words](Cryptography/pitcture-words)
+    - [Picture Words](Cryptography/picture-words)
     - [Crypto is an Art Form](Cryptography/crypto-is-an-art-form)
 * **Recon**
 * **Scripting**
