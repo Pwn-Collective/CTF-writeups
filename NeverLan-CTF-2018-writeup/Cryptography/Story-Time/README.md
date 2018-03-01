@@ -9,9 +9,9 @@
 
 
 ## Write-up
-The given ciphertext has very distinct syntax. By the look you can tell that it's a GOLD BUG ciphertext, which can be found here: >https://www.dcode.fr/gold-bug-poe.
+The given text has very distinct syntax. We notice that it has a lot of symbols † or ‡ which looks like a dagger. This is a characteristics of a GOLD-BUG ciphertext, which can be found here: >https://www.dcode.fr/gold-bug-poe.
 
-Using Gold Bug Decoder we got this:
+Using Gold-Bug Decoder we got this:
 
 >“CAPTAI KIDD USED THE GOLD BUG CIPHER TO HIDE THE LOCATIO OF HIS TREASURE I A STORY WRITTE BY EDGAR ALLA POE I FLAG IS PIRATESANDDAGGERS”
 
