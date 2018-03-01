@@ -33,7 +33,7 @@ Still, we don't know how to derive the proper data from the _profile_ JSON. That
 
 Salt and iterations are clearly visible in the provided JSON, what about hash and data? It occurs, that hash is stored in the last 32 bytes of _masterKey_, whereas rest of the _masterKey_ is the "data".
 
-Now, let's write a simple python code to prepare _in.txt_ for password cracking in hashcat 8200 mode.
+Now, let's write a simple python code to prepare _in.txt_ for password cracking in hashcat 8200 mode. Whole code can be found [here](https://github.com/Pwn-Collective/CTF-writeups/tree/master/NeverLan-CTF-2018-writeup/Passwords/The-Password-Manager/op2hashcat.py).
 
 ```python
 import json
