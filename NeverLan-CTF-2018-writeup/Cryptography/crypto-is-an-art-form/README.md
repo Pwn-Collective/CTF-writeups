@@ -1,4 +1,4 @@
-# NeverLan CTF 2018: Story Time!
+# NeverLan CTF 2018: Crypto is an Art Form
 **Category:** Cryptography 
 **Points:** 300
 
