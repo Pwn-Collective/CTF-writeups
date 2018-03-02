@@ -14,7 +14,7 @@ In this problem the title gives away a hint. After googling phrase ‘dot dot da
 
 >https://www.dcode.fr/morbit-cipher#0
 
-On the website you can see that the KEYWORD to decryption needs to have 9 digits. Also, in the word ‘NEVERLANCtf’ first 9 digits are capital letters. It was clear that:
+You can see that in order to apply this decoder, you need a kEYWORD. Also, the keyword to decryption needs to have 9 digits, and in the word ‘NEVERLANCtf’ first 9 digits are capital letters. It was clear that:
 
 > our keyword is: NEVERLANC
 
