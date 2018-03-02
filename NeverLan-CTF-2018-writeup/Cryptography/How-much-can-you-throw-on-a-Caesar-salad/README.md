@@ -34,9 +34,9 @@ Nothing readable! But… it looks like something we can put into our favourite o
 
 Yes! We managed to find the quote!
 
-> Experience is the Teacher of all things
+> 'Experience is the Teacher of all things'
 
-But that’s not the end! The question says:  mihi nomen latine! , which means name it in latin. So we named it! Who said the quote? It was Gaius Julius Caesar, but that’s not in latin!
+But that’s not the end! The question says:  'mihi nomen latine!' , which means name it in latin. So we named it! Who said the quote? It was Caivs Ilvis Caesar (eng. Gaius Julius Caesar)
 
 So the flag is: 
 
