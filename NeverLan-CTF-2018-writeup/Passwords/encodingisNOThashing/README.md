@@ -9,7 +9,7 @@
 After opening downladed packet in wireshark we looked into protocol hierarchy (it is under Statistics->Protocol Hierarchy). 
 One of the protocols that cought our attention was HTTP.
 <br>
-After applying http filter we also searched payload of remaining packets for words: ninja, bash, jedi. 
+After applying http filter we also searched payload of packets for words: ninja, bash, jedi. 
 You can do id with: edit->find packet and select String,Packet bytes.
 
 One of the packet with keyword 'ninja' was:
