@@ -1,6 +1,6 @@
 # NeverLan CTF 2018: dot dot dashish
 **Category:** Cryptography 
-**Points:** 200
+**Points:** 300
 
 **Description:**
 
