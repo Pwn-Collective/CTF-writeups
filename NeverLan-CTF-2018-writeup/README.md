@@ -19,6 +19,7 @@ This repository serves as a writeups for NeverLan CTF 2018
 * **Passwords**
 	- [The Password Manager](Passwords/The-Password-Manager)
 * **Trivia**
+    - [Can you name it?](Trivia/can-you-name-it)
     - [Can you search it?](Trivia/Can-you-search-it)
     - [Who knew?](Trivia/Who-knew)
     - [How far can you go?](Trivia/How-far-can-you-go)
