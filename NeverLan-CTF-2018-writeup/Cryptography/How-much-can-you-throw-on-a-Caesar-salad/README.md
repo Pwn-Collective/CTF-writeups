@@ -4,7 +4,7 @@
 
 **Description:**
 >>Cryptography is the art of hiding things. there are multiple ways to do it. There are multiple layers to this message. When you find the answer then make it a flag.. mihi nomen latine! Example: flag{WORDS_WORDS_WORDS}
-https://ctf.neverlanctf.com/files/cf26f603f844dae8e725a3a96680300d/O_SO_Curious.jpeg
+>>https://ctf.neverlanctf.com/files/cf26f603f844dae8e725a3a96680300d/O_SO_Curious.jpeg
 
 ## Write-up
 In this problem we were given a photograph of Albert Einstein with a quote. When seeing a photograph the first thing that comes to mind is steganography. However, in order to use this cipher you need to have a password. 
