@@ -6,6 +6,8 @@ This repository serves as a writeups for NeverLan CTF 2018
     - [Story Time!](Cryptography/Story-Time)
     - [Picture Words](Cryptography/picture-words)
     - [Crypto is an Art Form](Cryptography/crypto-is-an-art-form)
+    - [How much can you throw on a Ceasar salad](Cryptography/How-much-can-you-throw-on-a-Caesar-salad)
+    - [dot dot dashish](Cyrptography/dot-dot-dashish)
 * **Recon**
 * **Scripting**
 * **Reversing**
