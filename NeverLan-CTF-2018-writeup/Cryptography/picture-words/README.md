@@ -5,6 +5,7 @@
 **Description:**
 
 >>Pictures have meaning, You just have to be able to understand!
+>>https://ctf.neverlanctf.com/files/b887f34cb2dc9a2b0c1f3ea905728f5e/Invisible.jpeg
 
 ## Write-up
 
