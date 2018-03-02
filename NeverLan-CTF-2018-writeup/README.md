@@ -18,6 +18,8 @@ This repository serves as a writeups for NeverLan CTF 2018
 * **Network**
 * **Passwords**
 	- [The Password Manager](Passwords/The-Password-Manager)
+	- [encoding != hashing](Passwords/encodingisNOThashing)
+	- [Zip Attack](Passwords/zip-attack)
 * **Trivia**
     - [Can you name it?](Trivia/can-you-name-it)
     - [Can you search it?](Trivia/Can-you-search-it)
